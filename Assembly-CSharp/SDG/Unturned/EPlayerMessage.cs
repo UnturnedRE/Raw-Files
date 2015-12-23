@@ -1,0 +1,65 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: SDG.Unturned.EPlayerMessage
+// Assembly: Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: D9F86D58-5A05-437D-A559-3AF9B4C671F2
+// Assembly location: C:\Program Files (x86)\Steam\steamapps\common\Unturned\Unturned_Data\Managed\Assembly-CSharp.dll
+
+namespace SDG.Unturned
+{
+  public enum EPlayerMessage
+  {
+    NONE,
+    SPACE,
+    ITEM,
+    VEHICLE_ENTER,
+    VEHICLE_EXIT,
+    VEHICLE_SWAP,
+    RELOAD,
+    SAFETY,
+    LIGHT,
+    LASER,
+    RANGEFINDER,
+    ENEMY,
+    DOOR_OPEN,
+    DOOR_CLOSE,
+    LOCKED,
+    BLOCKED,
+    PILLAR,
+    POST,
+    ROOF,
+    WALL,
+    CORNER,
+    GROUND,
+    DOORWAY,
+    GARAGE,
+    WINDOW,
+    BED_ON,
+    BED_OFF,
+    BED_CLAIMED,
+    BOUNDS,
+    EXPERIENCE,
+    STORAGE,
+    FARM,
+    GROW,
+    SOIL,
+    FIRE_ON,
+    FIRE_OFF,
+    FORAGE,
+    GENERATOR_ON,
+    GENERATOR_OFF,
+    SPOT_ON,
+    SPOT_OFF,
+    EMPTY,
+    FULL,
+    MOON_ON,
+    MOON_OFF,
+    SAFEZONE_ON,
+    SAFEZONE_OFF,
+    PURCHASE,
+    WAVE_ON,
+    WAVE_OFF,
+    POWER,
+    USE,
+    SALVAGE,
+  }
+}
